@@ -1,9 +1,11 @@
 # api documentation for  [json2csv (v3.7.3)](https://github.com/zemirco/json2csv#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-json2csv.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-json2csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-json2csv.svg)](https://travis-ci.org/npmdoc/node-npmdoc-json2csv)
 #### Convert JSON to CSV
 
-[![NPM](https://nodei.co/npm/json2csv.png?downloads=true)](https://www.npmjs.com/package/json2csv)
+[![NPM](https://nodei.co/npm/json2csv.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/json2csv)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-json2csv/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-json2csv_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-json2csv/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-json2csv/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-json2csv/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-json2csv/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-json2csv/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-json2csv/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +19,7 @@
 
 {
     "author": {
-        "name": "Mirco Zeiss",
-        "email": "mirco.zeiss@gmail.com"
+        "name": "Mirco Zeiss"
     },
     "bin": {
         "json2csv": "./bin/json2csv.js"
@@ -70,22 +71,18 @@
     "main": "./lib/json2csv.js",
     "maintainers": [
         {
-            "name": "azhang",
-            "email": "azhang@bottlenose.com"
+            "name": "azhang"
         },
         {
-            "name": "knownasilya",
-            "email": "ilya@burstcreations.com"
+            "name": "knownasilya"
         },
         {
-            "name": "zemirco",
-            "email": "mirco.zeiss@gmail.com"
+            "name": "zemirco"
         }
     ],
     "name": "json2csv",
     "optionalDependencies": {},
     "preferGlobal": "true",
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/zemirco/json2csv.git"
@@ -102,16 +99,6 @@
     "version": "3.7.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module json2csv](#apidoc.module.json2csv)
-
-
-
-# <a name="apidoc.module.json2csv"></a>[module json2csv](#apidoc.module.json2csv)
 
 
 
