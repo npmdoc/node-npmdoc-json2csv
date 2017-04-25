@@ -1,4 +1,7 @@
-# api documentation for  [json2csv (v3.7.3)](https://github.com/zemirco/json2csv#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-json2csv.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-json2csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-json2csv.svg)](https://travis-ci.org/npmdoc/node-npmdoc-json2csv)
+# npmdoc-json2csv
+
+#### basic api documentation for  [json2csv (v3.7.3)](https://github.com/zemirco/json2csv#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-json2csv.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-json2csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-json2csv.svg)](https://travis-ci.org/npmdoc/node-npmdoc-json2csv)
+
 #### Convert JSON to CSV
 
 [![NPM](https://nodei.co/npm/json2csv.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/json2csv)

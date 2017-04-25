@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "json2csv",
-    "description": "api documentation for [json2csv (v3.7.3)](https://github.com/zemirco/json2csv#readme) [![npm package](https://img.shields.io/npm/v/npmdoc-json2csv.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-json2csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-json2csv.svg)](https://travis-ci.org/npmdoc/node-npmdoc-json2csv)",
+    "description": "#### basic api documentation for  [json2csv (v3.7.3)](https://github.com/zemirco/json2csv#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-json2csv.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-json2csv) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-json2csv.svg)](https://travis-ci.org/npmdoc/node-npmdoc-json2csv)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "json2csv": "*",
